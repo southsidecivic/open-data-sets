@@ -1,0 +1,64 @@
+#Chi Open Data Sets
+Open data scraped, cleaned, and/or FOIA'd by Chicago, for Chicago
+
+## General
+- [Chicago Metropolitan Agency for Planning - Data Hub](https://datahub.cmap.illinois.gov/group)
+- [City of Chicago - Open Data Portal](https://data.cityofchicago.org/)
+- [Metro Chicago Data](https://www.metrochicagodata.org/)
+  
+## Census & Demographic
+- [PDF maps](https://www.cityofchicago.org/city/en/depts/doit/supp_info/census_maps.html)
+- [Census Tracts (Geospatial)](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Census-Tracts-2010/5jrd-6zik)
+- [Census Blocks (Geospatial)](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Census-Blocks-2010/mfzt-js4n)
+- [Bulk Census Data](http://census.ire.org/data/bulkdata.html)
+- [Chicago Community Area (Neighborhood) Data by Decade (spreadsheet)](http://www.robparal.com/ChicagoCommunityAreaData.html)
+
+## Criminal Justice
+- [Crimes, 2001 to Present](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2)
+- **Complaints Against Chicago Police**
+  - [Download a Zip of Police Misconduct Complaints](http://j.mp/chicagopolicemisconductdata)
+  - Exploratory Tools
+    - Chicago Tribune: [Explore Crime Reports](http://crime.chicagotribune.com/)
+    - Invisible Institute: [Citizen Police Data Project - Explore Misconduct Allegations](http://cpdb.co)
+    - The Chicago Reporter: [Settling for Misconduct - Explore Settlements](http://projects.chicagoreporter.com/settlements/search/cases)
+
+## Energy & Environment 
+- [Chicago Energy Benchmarking - Energy and Resource Usage for Major Buildings in Chicago, 2014 & 2015](https://data.cityofchicago.org/Environment-Sustainable-Development/Chicago-Energy-Benchmarking/xq83-jr8c)
+- [Energy Usage by Block, 2010](https://data.cityofchicago.org/Environment-Sustainable-Development/Energy-Usage-2010/8yq3-m6wp)
+- [UChicago Energy Data - Includes raw electricity meter data, campus building geojson, property list with sq footage](http://www.rdcep.org/campus-as-a-lab-data/)
+- [Green Roofs Shapefile](https://data.cityofchicago.org/Environment-Sustainable-Development/Green-Roofs-Shapefile/6mep-ry2s)
+
+##Geospatial
+- [Neighborhoods](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Neighborhoods/9wp7-iasj)
+- [Wards](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Ward-Precincts/sgsc-bb4n)
+- [Major Streets](https://data.cityofchicago.org/Transportation/Major-Streets/ueqs-5wr6)
+- [Forest Preserves](https://data.cityofchicago.org/Parks-Recreation/Forest-Preserves-Chicago/je6f-7464)
+- [Hospitals](https://data.cityofchicago.org/Health-Human-Services/Hospitals-Chicago/ucpz-2r55)
+- [Police Stations](https://data.cityofchicago.org/Public-Safety/Police-Stations-Shapefiles/tc9m-x6u6)
+- [Police Precincts](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Precincts-current-/uvpq-qeeq)
+- [Police Districts](https://data.cityofchicago.org/Public-Safety/Boundaries-Police-Districts/4dt9-88ua)
+- [Police Beats](https://data.cityofchicago.org/Public-Safety/Boundaries-Police-Beats-current-/aerh-rz74)
+  
+## Public Health
+- [Public Health Data by Community Area](https://data.cityofchicago.org/Health-Human-Services/Public-Health-Statistics-Selected-public-health-in/iqnk-2tcu)
+- [Ecoli Beach Modeling - Includes data on Chicago beaches, lock openings, and weather data](https://github.com/Chicago/e-coli-beach-predictions/tree/master/CSVs)
+- [Chicago Health Atlas - Explore and Download Data related to births, asthma, chronic disease, deaths, environmental health, and more](http://www.chicagohealthatlas.org/map)
+
+## Transportation
+- [Divvy Bike Sharing - Anonymized Historical Indivdiual Trip Data](https://www.divvybikes.com/system-data)
+- [Taxi Trips on the Open Data Portal](https://data.cityofchicago.org/Transportation/Taxi-Trips-Dashboard/spcw-brbq)
+- [L Ridership since 2001 on the Open Data Portal](https://data.cityofchicago.org/Transportation/CTA-Ridership-L-Station-Entries-Daily-Totals/5neh-572f)
+- [Commuting - CMAP Travel Tracker Survey](http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey)
+
+## Urban Planning & Retail
+- [CMAP Population Forecasting](http://www.cmap.illinois.gov/data/demographics/population-forecast)
+- [MAPS Corps - Built Assets by Industry, including retail, arts, industrial, social services, etc. Explore, or submit request for free data](https://mapscorps.org/Map/Chicago)
+
+## Credits
+Compiled by [Christine](https://github.com/cszc) for [South Side Civic](www.southsidecivic.net). Thanks to everyone who sent in tips. 
+
+Submit a tip, issue, or leave requests via the [issue tracker](https://github.com/southsidecivic/open-data-sets/issues). 
+
+Many of these data sets were found through other, amazing open data compilations:
+- [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
+- [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
