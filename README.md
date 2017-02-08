@@ -59,6 +59,6 @@ Compiled by [Christine](https://github.com/cszc) for [South Side Civic](www.sout
 
 Submit a tip, issue, or leave requests via the [issue tracker](https://github.com/southsidecivic/open-data-sets/issues). 
 
-Many of these data sets were found through other, amazing open data compilations:
+Many of these data sets were discovered through these awesome lists:
 - [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
