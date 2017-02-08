@@ -25,7 +25,7 @@ Open data scraped, cleaned, and/or FOIA'd by Chicago, for Chicago
 ## Energy & Environment 
 - [Chicago Energy Benchmarking - Energy and Resource Usage for Major Buildings in Chicago, 2014 & 2015](https://data.cityofchicago.org/Environment-Sustainable-Development/Chicago-Energy-Benchmarking/xq83-jr8c)
 - [Energy Usage by Block, 2010](https://data.cityofchicago.org/Environment-Sustainable-Development/Energy-Usage-2010/8yq3-m6wp)
-- [UChicago Energy Data - Includes raw electricity meter data, campus building geojson, property list with sq footage](http://www.rdcep.org/campus-as-a-lab-data/)
+- [University of Chicago Energy Data - Includes raw electricity meter data, campus building geojson, property list with sq footage](http://www.rdcep.org/campus-as-a-lab-data/)
 - [Green Roofs Shapefile](https://data.cityofchicago.org/Environment-Sustainable-Development/Green-Roofs-Shapefile/6mep-ry2s)
 
 ##Geospatial
