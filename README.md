@@ -1,6 +1,8 @@
 #Chi Open Data Sets
 Open data scraped, cleaned, and/or FOIA'd by Chicago, for Chicago
 
+:clipboard:: Obtained through FOIA
+
 ## General
 - [Chicago Metropolitan Agency for Planning - Data Hub](https://datahub.cmap.illinois.gov/group)
 - [City of Chicago - Open Data Portal](https://data.cityofchicago.org/)
@@ -16,7 +18,7 @@ Open data scraped, cleaned, and/or FOIA'd by Chicago, for Chicago
 ## Criminal Justice
 - [Crimes, 2001 to Present](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2)
 - **Complaints Against Chicago Police**
-  - [Download a Zip of Police Misconduct Complaints](http://j.mp/chicagopolicemisconductdata)
+  - :clipboard: [Download a Zip of Police Misconduct Complaints](http://j.mp/chicagopolicemisconductdata)
   - Exploratory Tools
     - Chicago Tribune: [Explore Crime Reports](http://crime.chicagotribune.com/)
     - Invisible Institute: [Citizen Police Data Project - Explore Misconduct Allegations](http://cpdb.co)
@@ -55,6 +57,7 @@ Open data scraped, cleaned, and/or FOIA'd by Chicago, for Chicago
 - [Taxi Trips on the Open Data Portal](https://data.cityofchicago.org/Transportation/Taxi-Trips-Dashboard/spcw-brbq)
 - [L Ridership since 2001 on the Open Data Portal](https://data.cityofchicago.org/Transportation/CTA-Ridership-L-Station-Entries-Daily-Totals/5neh-572f)
 - [Commuting - CMAP Travel Tracker Survey](http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey)
+- :clipboard: [CTA Passenger Counts Data](https://www.moomers.org/foia/cta-passenger-counts-data/)
 
 ## Urban Planning & Retail
 - [CMAP Population Forecasting](http://www.cmap.illinois.gov/data/demographics/population-forecast)
