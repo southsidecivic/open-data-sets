@@ -54,6 +54,7 @@ Open data scraped, cleaned, and/or FOIA'd by Chicago, for Chicago
 - [Array of Things Node Locations](https://arrayofthings.github.io/node-locations.html)
 - [Red Light Camera Locations](https://data.cityofchicago.org/Transportation/Red-Light-Camera-Locations/thvf-6diy)
 - [Speed Camera Locations](https://data.cityofchicago.org/Transportation/Speed-Camera-Locations/4i42-qv3h)
+- [Chicago Police Cameras](https://www.google.com/maps/d/u/0/viewer?mid=1x1xj7qWilrjOenO2X53RfHzDHTY&hl=en&ll=41.83262984154631%2C-87.96105699999998&z=10) (source unknown)
 
 ## Public Health
 - [Public Health Data by Community Area](https://data.cityofchicago.org/Health-Human-Services/Public-Health-Statistics-Selected-public-health-in/iqnk-2tcu)
