@@ -28,7 +28,7 @@ Open data scraped, cleaned, and/or FOIA'd by Chicago, for Chicago
 - [University of Chicago Energy Data - Includes raw electricity meter data, campus building geojson, property list with sq footage](http://www.rdcep.org/campus-as-a-lab-data/)
 - [Green Roofs Shapefile](https://data.cityofchicago.org/Environment-Sustainable-Development/Green-Roofs-Shapefile/6mep-ry2s)
 
-##Geospatial
+## Geospatial
 - [Neighborhoods](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Neighborhoods/9wp7-iasj)
 - [Wards](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Ward-Precincts/sgsc-bb4n)
 - [Major Streets](https://data.cityofchicago.org/Transportation/Major-Streets/ueqs-5wr6)
@@ -38,7 +38,13 @@ Open data scraped, cleaned, and/or FOIA'd by Chicago, for Chicago
 - [Police Precincts](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Precincts-current-/uvpq-qeeq)
 - [Police Districts](https://data.cityofchicago.org/Public-Safety/Boundaries-Police-Districts/4dt9-88ua)
 - [Police Beats](https://data.cityofchicago.org/Public-Safety/Boundaries-Police-Beats-current-/aerh-rz74)
-  
+
+## IOT
+- [Insecure Surveillance Cameras around Chicago](https://www.insecam.org/en/bycity/Chicago/)
+- [Array of Things Node Locations](https://arrayofthings.github.io/node-locations.html)
+- [Red Light Camera Locations](https://data.cityofchicago.org/Transportation/Red-Light-Camera-Locations/thvf-6diy)
+- [Speed Camera Locations](https://data.cityofchicago.org/Transportation/Speed-Camera-Locations/4i42-qv3h)
+
 ## Public Health
 - [Public Health Data by Community Area](https://data.cityofchicago.org/Health-Human-Services/Public-Health-Statistics-Selected-public-health-in/iqnk-2tcu)
 - [Ecoli Beach Modeling - Includes data on Chicago beaches, lock openings, and weather data](https://github.com/Chicago/e-coli-beach-predictions/tree/master/CSVs)
