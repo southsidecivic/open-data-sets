@@ -23,6 +23,14 @@ Open data scraped, cleaned, and/or FOIA'd by Chicago, for Chicago
     - Chicago Tribune: [Explore Crime Reports](http://crime.chicagotribune.com/)
     - Invisible Institute: [Citizen Police Data Project - Explore Misconduct Allegations](http://cpdb.co)
     - The Chicago Reporter: [Settling for Misconduct - Explore Settlements](http://projects.chicagoreporter.com/settlements/search/cases)
+    - Chicago Police Board Information Center: [Explore Allegations Handled by the Chicago Police Board](http://www.chicagojustice.org/2017/01/21/foia-seeking-cpd-crime-incident-data/)
+- :clipboard: [Chicago Justice Project - includes:](http://www.chicagojustice.org/open-data/)
+    - Committee on Police & Fire Agenda Data Set 2006-2009
+    - Chicago Police Department District Level Crime Data 1973-2009
+    - Chicago Police Department Community Area Crime Data 1998-2009
+    - Calls for Police Service
+    - Cook County Court Data
+    - Cook County Sheriff’s Office Data
 
 ## Energy & Environment 
 - [Chicago Energy Benchmarking - Energy and Resource Usage for Major Buildings in Chicago, 2014 & 2015](https://data.cityofchicago.org/Environment-Sustainable-Development/Chicago-Energy-Benchmarking/xq83-jr8c)
