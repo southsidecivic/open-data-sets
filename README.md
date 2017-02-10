@@ -13,7 +13,7 @@ Open data scraped, cleaned, and/or FOIA'd by Chicago, for Chicago
 - [Census Tracts (Geospatial)](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Census-Tracts-2010/5jrd-6zik)
 - [Census Blocks (Geospatial)](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Census-Blocks-2010/mfzt-js4n)
 - [Bulk Census Data](http://census.ire.org/data/bulkdata.html)
-- [Chicago Community Area (Neighborhood) Data by Decade (spreadsheet)](http://www.robparal.com/ChicagoCommunityAreaData.html)
+- [Chicago Community Area (Neighborhood) Data by Decade](http://www.robparal.com/ChicagoCommunityAreaData.html) (spreadsheet)
 
 ## Criminal Justice
 - [Crimes, 2001 to Present](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2)
@@ -33,9 +33,9 @@ Open data scraped, cleaned, and/or FOIA'd by Chicago, for Chicago
     - Cook County Sheriff’s Office Data
 
 ## Energy & Environment 
-- [Chicago Energy Benchmarking - Energy and Resource Usage for Major Buildings in Chicago, 2014 & 2015](https://data.cityofchicago.org/Environment-Sustainable-Development/Chicago-Energy-Benchmarking/xq83-jr8c)
+- [Chicago Energy Benchmarking](https://data.cityofchicago.org/Environment-Sustainable-Development/Chicago-Energy-Benchmarking/xq83-jr8c) - Energy and Resource Usage for Major Buildings in Chicago, 2014 & 2015
 - [Energy Usage by Block, 2010](https://data.cityofchicago.org/Environment-Sustainable-Development/Energy-Usage-2010/8yq3-m6wp)
-- [University of Chicago Energy Data - Includes raw electricity meter data, campus building geojson, property list with sq footage](http://www.rdcep.org/campus-as-a-lab-data/)
+- [University of Chicago Energy Data](http://www.rdcep.org/campus-as-a-lab-data/) - Includes raw electricity meter data, campus building geojson, property list with sq footage]
 - [Green Roofs Shapefile](https://data.cityofchicago.org/Environment-Sustainable-Development/Green-Roofs-Shapefile/6mep-ry2s)
 
 ## Geospatial
@@ -58,22 +58,22 @@ Open data scraped, cleaned, and/or FOIA'd by Chicago, for Chicago
 
 ## Public Health
 - [Public Health Data by Community Area](https://data.cityofchicago.org/Health-Human-Services/Public-Health-Statistics-Selected-public-health-in/iqnk-2tcu)
-- [Ecoli Beach Modeling - Includes data on Chicago beaches, lock openings, and weather data](https://github.com/Chicago/e-coli-beach-predictions/tree/master/CSVs)
-- [Chicago Health Atlas - Explore and Download Data related to births, asthma, chronic disease, deaths, environmental health, and more](http://www.chicagohealthatlas.org/map)
+- [Ecoli Beach Modeling](https://github.com/Chicago/e-coli-beach-predictions/tree/master/CSVs) - Includes data on Chicago beaches, lock openings, and weather data]
+- [Chicago Health Atlas](http://www.chicagohealthatlas.org/map) - Explore and Download Data related to births, asthma, chronic disease, deaths, environmental health, and more
 
 ## Transportation
-- [Divvy Bike Sharing - Anonymized Historical Indivdiual Trip Data](https://www.divvybikes.com/system-data)
+- [Divvy Bike Sharing](https://www.divvybikes.com/system-data) - Anonymized Historical Indivdiual Trip Data
 - [Taxi Trips on the Open Data Portal](https://data.cityofchicago.org/Transportation/Taxi-Trips-Dashboard/spcw-brbq)
 - [L Ridership since 2001 on the Open Data Portal](https://data.cityofchicago.org/Transportation/CTA-Ridership-L-Station-Entries-Daily-Totals/5neh-572f)
-- [Commuting - CMAP Travel Tracker Survey](http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey)
+- [Commuting](http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey) - CMAP Travel Tracker Survey
 - :clipboard: [CTA Passenger Counts Data](https://www.moomers.org/foia/cta-passenger-counts-data/)
 
 ## Urban Planning & Retail
 - [CMAP Population Forecasting](http://www.cmap.illinois.gov/data/demographics/population-forecast)
-- [MAPS Corps - Built Assets by Industry, including retail, arts, industrial, social services, etc. Explore, or submit request for free data](https://mapscorps.org/Map/Chicago)
+- [MAPS Corps](https://mapscorps.org/Map/Chicago) - Built Assets by Industry, including retail, arts, industrial, social services, etc. Explore, or submit request for free data
 
 ## Credits
-Compiled by [Christine](https://github.com/cszc) for [South Side Civic](www.southsidecivic.net). Thanks to everyone who sent in tips. 
+Compiled by [Christine](https://github.com/cszc) for [South Side Civic](http://www.southsidecivic.net/). Thanks to everyone who sent in tips. 
 
 Submit a tip, issue, or leave requests via the [issue tracker](https://github.com/southsidecivic/open-data-sets/issues). 
 
