@@ -17,6 +17,7 @@ Open data scraped, cleaned, and/or FOIA'd by Chicago, for Chicago
 
 ## Criminal Justice
 - [Crimes, 2001 to Present](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2)
+- [Chicago Homicide Data since 1957](http://www.chicagotribune.com/news/local/breaking/ct-chicago-homicides-data-since-1957-20160302-htmlstory.html)
 - **Complaints Against Chicago Police**
   - :clipboard: [Download a Zip of Police Misconduct Complaints](http://j.mp/chicagopolicemisconductdata)
   - Exploratory Tools
@@ -60,6 +61,9 @@ Open data scraped, cleaned, and/or FOIA'd by Chicago, for Chicago
 - [Public Health Data by Community Area](https://data.cityofchicago.org/Health-Human-Services/Public-Health-Statistics-Selected-public-health-in/iqnk-2tcu)
 - [Ecoli Beach Modeling](https://github.com/Chicago/e-coli-beach-predictions/tree/master/CSVs) - Includes data on Chicago beaches, lock openings, and weather data]
 - [Chicago Health Atlas](http://www.chicagohealthatlas.org/map) - Explore and Download Data related to births, asthma, chronic disease, deaths, environmental health, and more
+
+## Random
+- [Chicago Sunrise Data](https://github.com/vc1492a/Chicago-Sunrise-Data) - Recorded colors and brightness data from a sunrise on October 3rd, 2016
 
 ## Transportation
 - [Divvy Bike Sharing](https://www.divvybikes.com/system-data) - Anonymized Historical Indivdiual Trip Data
